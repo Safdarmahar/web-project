@@ -1,0 +1,50 @@
+.enternal{
+	width: 980px;
+	margin: 0 auto;
+}
+.internal{
+	text-align: center;
+}
+.internal h1{
+	font-family: Dauphin;
+	font-size: 70px;
+	font-weight: 500;
+}
+@font-face{
+	font-family:Dauphin;
+	src: url(../font/Dauphin.ttf);
+}	
+.both{
+	display: flex;
+	justify-content: space-between;
+}
+.both div{
+	margin-right: 30px;
+}
+.both p{
+	text-align: justify;
+}
+.both h1{
+	font-family: Dauphin;
+	font-size: 18px;
+	font-weight: 500;
+
+}
+/*.over{
+	width: 980px;
+	margin: 0 auto;
+}*/
+.box a{
+	color: black;
+}
+.both{
+	width: 980px;
+	margin: 0 auto;
+}
+center a{
+	text-decoration: none;
+
+}
+strong a{
+	text-decoration: none;
+}
